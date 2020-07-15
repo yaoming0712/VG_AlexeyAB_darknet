@@ -1,0 +1,4 @@
+.\darknet detector batch data/obj.data cfg/yolov4-obj.cfg backup/anchor_change/yolov4-obj_final.weights io_folder sample_imgs/ output/ -out output/result.json -ext_output > output/result.txt
+
+參考
+https://darknet.gong.im/
